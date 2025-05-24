@@ -1,1 +1,1 @@
-Code for Lab 5.
+Assignment for Lab 5.
